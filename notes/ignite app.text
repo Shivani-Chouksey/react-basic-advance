@@ -1,0 +1,22 @@
+package.json file is a configuration json file  for a npm  (package manager ).
+npm  (package manager ) are also known as dependancy 
+
+================================
+
+Bundler
+example-webpack , vite,parcel
+package your app to shift on production 
+
+create-react-app using webpack behind the scene 
+
+
+
+2 types of dependacy 
+dev dependacy
+normal dependacy
+
+
+dev - is use only on development not production
+> caret (minor update) and tild ~ (major update)
+
+
